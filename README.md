@@ -1,2 +1,2 @@
-# venus
-A DevSecOps Test Repository
+# DevSecOps Test Project
+Work in progress ..
